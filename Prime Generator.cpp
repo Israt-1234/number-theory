@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/PRIME1/
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
